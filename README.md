@@ -1,0 +1,3 @@
+Traffic sign recognition based on the convolutional neural net classifier. Background is assigned to one of the classes to avoid creating a detector. Classifier is applied by sliding window method.
+The program is written in c++ using OpenCV, dlib libraries.
+For classifier training images from The German Traffic Sign Detection Benchmark (http://benchmark.ini.rub.de/?section=gtsdb&subsection=dataset) are used.
